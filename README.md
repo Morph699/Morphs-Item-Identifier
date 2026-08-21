@@ -1,5 +1,8 @@
 ### Morphs Creations AI Image Identifier v1.40
 
+<img width="496" height="1024" alt="1787254888635-01a020b0-8526-7f6d-a7aa-5155663b39cc" src="https://github.com/user-attachments/assets/563892f9-c4c6-4bfe-9c0b-af5481669d92" />
+
+
 ### Short Description
 
 Snap a photo to instantly identify objects, estimate values, catch fakes, and transform reality into stunning 4K AI artwork! Zero ads. No watermarks.
@@ -26,4 +29,4 @@ We believe your apps should match your style. Morphs Creations includes a dynami
 ### Transparent Funding & Support
 
 This project is built and maintained entirely by an independent creator. There are no corporate tracking networks or hidden background server logging logs here. Every single tip or key activation directly buys compute time and keeps this independent workspace running! 
-<img width="1024" height="500" alt="1787254888635-01a020b0-8526-7f6d-a7aa-5155663b39cc" src="https://github.com/user-attachments/assets/6873235b-349c-4f8f-807e-a2d77afc0057" />
+
