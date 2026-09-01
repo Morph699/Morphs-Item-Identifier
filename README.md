@@ -1,7 +1,6 @@
 🔍 Morphs Creations Item Identifier v1.54
 
-<img width="1664" height="2496" alt="1788289174527-01a05e55-c82e-7942-875f-2dde063fffad" src="https://github.com/user-attachments/assets/6746c44a-b2d6-4ff6-8e81-d5e215e16f65" />
-
+<img width="1646" height="1799" alt="1788289174527-01a05e55-c82e-7942-875f-2dde063fffad" src="https://github.com/user-attachments/assets/3efc473a-289d-4ec6-bd2c-9e9da762e254" />
 
 Your All-in-One AI Visual Scanner, Creator Studio & Marketplace Identifier
 
