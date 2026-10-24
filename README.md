@@ -1,6 +1,6 @@
 <img width="1328" height="1888" alt="Item Identifier" src="https://github.com/user-attachments/assets/b6f71492-00e1-4bde-a64e-5a71ad6bc53d" />
 
-🔍 Morphs Creations Item Identifier v2.38
+🔍 Morphs Creations Item Identifier
 
 High-Speed Visual AI Recognition, Pantone Color Studio & Multi-Shot Field Workstation
 
