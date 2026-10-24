@@ -1,46 +1,67 @@
-<img width="1328" height="1888" alt="Item Identifier" src="https://github.com/user-attachments/assets/b6f71492-00e1-4bde-a64e-5a71ad6bc53d" />
+<img width="1280" height="1856" alt="Item Identifier" src="https://github.com/user-attachments/assets/1f941fda-3906-420f-aab8-a278df916cbd" />
 
-🔍 Morphs Creations Item Identifier
+# Morphs Item Identifier
 
-High-Speed Visual AI Recognition, Pantone Color Studio & Multi-Shot Field Workstation
+**Instant Real-World Object Recognition, Visual AI Search & Color Palette Studio**
 
-Morphs Creations Item Identifier is an ultra-lightweight, zero-bloat visual intelligence suite designed for instant real-world object recognition, dominant color extraction, and rapid multi-shot batch scanning. Built from bare metal with pure, responsive web technologies, it transforms any modern mobile browser or Android WebView into a high-performance diagnostic workstation without heavy native frameworks or background trackers.
+### Product Overview
+**Morphs Item Identifier** transforms your device’s camera into a high-precision visual discovery tool. Instantly identify real-world objects, products, plants, animals, landmarks, and celebrities, or extract production-grade Pantone and HEX color palettes right from your live camera stream or photo gallery. Built with a fluid, lightweight interface, it delivers fast recognition without cumbersome setups or background bloat.
 
-🌟 Key Features & Functional Modes
+### Core Highlights & Modes
 
-1. 🔍 Instant Visual AI Search
+* **🔍 Visual AI Search Engine**  
+  Point and shoot any object, artwork, apparel, or item for direct visual recognition and deep web lookups. Supports both live camera capture and direct image file uploads from your gallery.
 
-  - Point, Snap & Identify: Route real-world items, apparel, consumer goods, biological specimens, hardware, and landmarks directly to Google Lens neural search with zero lag.
-  - Direct Isolated Relay Engine: Built with an anti-hang detached routing system (target="_blank" rel="noopener noreferrer") and fast edge image CDN buffers (Imgur / Litterbox fallback), eliminating browser back-button loops and crawler redirects.
-  - Universal Media Upload: Seamlessly toggle between direct live camera sensor feeds and local image file uploads from your gallery.
+* **🎨 Pantone & Color Harmony Studio**  
+  Real-time color quantization analyzes any scene to sample, generate, and isolate a clean 5-swatch dominant palette. Tap any color chip to copy HEX codes directly to your clipboard, or export full palette reports as text files.
 
-2. 🎨 Pantone & Color Harmony Studio
+* **🎬 Multi-Shot Batch Scan Queue**  
+  Capture multiple items consecutively without interrupting your workflow. Queued frames appear in an interactive HUD tray for individual review, instant searching, IMDb verification, or bulk data export.
 
-  - 5-Color Dominant Palette Extraction: Point your camera at any surface, textile, artwork, or product to instantly extract its 5 dominant color clusters in real time.
-  - One-Tap Hex Swatches: Interactive high-contrast swatch chips allow you to copy Hex codes directly to your clipboard with a single tap.
-  - Palette Export: Export extracted color palettes directly into structured .txt palette data sheets for design and production workflows.
+* **🔎 Dynamic Viewfinder & Hardware Control**  
+  Fluid 1.0x to 8.0x zoom controls featuring hardware-assisted digital magnification, two-finger pinch-to-zoom gestures, and instant camera lens flipping (front and rear).
 
-3. 🎬 Multi-Shot Batch Scan Queue (Standard+)
+* **📶 Network Telemetry Radar**  
+  Active network monitoring dynamically supervises connectivity. When operating on cellular connections, uploads are automatically optimized to conserve your mobile data plan.
 
-  - Rapid-Fire Capture: Rapidly shoot multiple frames without leaving the camera viewfinder—perfect for field audits, inventory reviews, and cataloging.
-  - On-Sensor Review Tray: Live dynamic HUD thumbnail tray keeps track of queued frames directly above your viewfinder controls.
-  - Session Export Engine: Export your entire multi-shot queue metadata directly to CSV or JSON spreadsheets for reporting and analysis.
+* **🎬 IMDb Celebrity & Film Lookup**  
+  Seamlessly bridge visual actor or director detections with dedicated IMDb biography and filmography searches.
 
-4. 🎬 Direct IMDb Biographic Deep-Link
+### Feature Gating & Tier Breakdown
 
-  - Quickly look up or cross-verify actors, directors, movie posters, and media identified in the field with a built-in IMDb search interface.
+#### 🆓 Core Free
+* Full access to live camera scanning and gallery uploads.
+* Instant Visual AI Search recognition.
+* Complete Pantone & Color Harmony Studio with HEX copying and text exports.
+* Full 1.0x–8.0x zoom slider and touch pinch magnification.
+* Front/Rear camera switching.
+* High-contrast Light (Soft Slate) and Dark (Stealth) themes.
+* Small and Medium accessibility font sizing.
+* Session scan telemetry logs.
 
-⚡ Built for Reliability & Extreme Privacy
+#### ⭐ Supporter Tier (Any Coffee Tip / Donation)
+* **Verified Supporter Badge** displayed in the app header.
+* Unlocks the high-contrast **Matrix Green** UI theme.
+* Priority developer feedback channel.
+* Direct contribution toward continuous updates and independent development.
 
-  - Resilient Multi-Lens Camera Pipeline: Features a hardened 3-tier camera acquisition engine with smooth front/rear lens flipping, continuous hardware pinch-to-zoom (1.0× to 8.0×), and screen wake-lock persistence.
-  - 10-Theme WCAG AAA Palette Matrix: Switch effortlessly between 10 calibrated high-contrast color palettes, including Soft Slate (Light Default), Stealth Dark, Matrix Green, Cyberpunk Pink, Dracula Purple, and Blood Matrix (Cyber Red).
-  - Adaptive Light-Mode Toast Shield: Dynamic floating toast alerts automatically darken under light themes, guaranteeing crisp readability under direct sunlight.
-  - Zero Plaintext Privacy Identity: Complete integration with Morphs Creations' dynamic ASCII byte-array email relay protocol—protecting communication channels without exposed plaintext scrapers.
-  - Bare-Metal Factory Reset: Built-in hardware data sentry lets you instantly wipe local storage, cached session queues, IndexedDB tables, and web workers back to pristine defaults in one tap.
+#### ⚡ Standard Tier ($3.99 One-Time)
+* *Includes everything in Core Free and Supporter, plus:*
+* **Batch Scan Queue Console:** Rapid-fire multi-photo capture mode with real-time HUD thumbnail tray.
+* **Review Deck:** Inspect and route individual queued frames whenever you're ready.
+* **Full Data Exporters:** One-click session catalog exports to clean **CSV** and **JSON** files.
+* **Standard Theme Pack:** Unlocks vibrant **Cyber Yellow** and **Cyberpunk Pink** themes.
+* **Expanded Typography:** Unlocks **Large Font (11.5pt)** scaling for improved visibility.
 
+#### 👑 Pro Premium Tier ($5.99 One-Time — Best Value)
+* *The complete, unrestricted experience unlocking every current and future feature:*
+* **Complete Theme Collection:** Unlocks all premium visual themes, including **Dracula Purple**, **Blood Matrix**, **Nordic Frost**, **Solarized Ocean**, and **Sunset Amber**.
+* **Extra Large Typography:** Unlocks **Extra Large Font (13.0pt+)** scaling for maximum accessibility and readability in outdoor environments.
+* **Maximum Network Priority:** Accelerated cloud routing for visual matching.
+* Full access to the multi-shot batch queue and all CSV/JSON telemetry exporters.
+* Permanent license activation across all your compatible devices.
 
-📋 Technical Specifications
-
-  - Version: v2.38 
-  - Platform: Mobile Web (Android)
-  - Developer: Morphs Creations (Independent Utility & Creative Tools Studio)
+### Privacy & Architecture
+* **Client-Side Processing:** Color extraction and palette analysis run directly in your device’s memory without remote logging.
+* **Zero Disruption Reset:** Built-in sentry reset tools allow you to restore factory defaults cleanly in-memory without losing camera permissions or causing browser stalls.
+* **Responsive Touch Interface:** Optimized for touchscreens, mobile viewports, and modern hybrid web containers.
