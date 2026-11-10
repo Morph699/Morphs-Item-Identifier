@@ -1,6 +1,6 @@
 <img width="1280" height="1856" alt="Item Identifier" src="https://github.com/user-attachments/assets/1f941fda-3906-420f-aab8-a278df916cbd" />
 
-# Morphs Item Identifier (v2.6)
+# Morphs Item Identifier 
 ### High-Performance Computer Vision, Colorimetry & Hardware Viewfinder Suite
 
 ---
